@@ -1,6 +1,6 @@
 
 
-def my_collect(arr)
+def my_collect(array)
   i=0 
   collection = []
   while i < yield(array[i])
